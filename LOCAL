@@ -1,1 +1,4 @@
-en_US
+local1 = 'en_US'
+code1 = 'US'
+local2 = 'en_GB'
+code2 = 'GB'
