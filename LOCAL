@@ -1,2 +1,2 @@
-local1 = ['en_VU|VU','en_CA|CA']
-local2 = ['en_VU|VU','en_CA|CA']
+local1 = ['en_VU|VU','en_CA|CA','ar_MR|MR','ru_RU|RU','sr_ME|ME','en_IO|IO','en_AU|AU','fa_IR|IR']
+local2 = ['en_VU|VU','en_CA|CA','ar_MR|MR','ru_RU|RU','sr_ME|ME','en_IO|IO','en_AU|AU','fa_IR|IR']
